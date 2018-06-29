@@ -20,6 +20,7 @@
 ***
 
 # 生成图片效果
-![image][data:image/png;https://github.com/lucineIT/GAN/blob/master/imgs/generate/generate_7_0.9243126154565551.png] 生成图片
-
+<center>
+    <img src="https://github.com/lucineIT/GAN/blob/master/imgs/generate/generate_7_0.9243126154565551.png">
+</center>
 # 训练的中间结果
