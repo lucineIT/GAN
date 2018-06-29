@@ -24,3 +24,6 @@
     <img src="https://github.com/lucineIT/GAN/blob/master/imgs/generate/generate_7_0.9243126154565551.png">
 </center>
 # 训练的中间结果
+<center>
+  <img src="https://github.com/lucineIT/GAN/blob/master/imgs/train_backup/1920.png">
+</center>
