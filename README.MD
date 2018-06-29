@@ -19,4 +19,7 @@
 
 ***
 
-# 
+# 生成图片效果
+https://github.com/lucineIT/GAN/blob/master/imgs/generate/generate_7_0.9243126154565551.png
+
+# 训练的中间结果
